@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+data
+venv/*
+*.py
+statistics/venv/bin
+statistics/venv
+titanic/pyspark/venv
+1titanic/pyspark/ans
+1titanic/pyspark/venv
+1titanic/sqlearn/venv
+1titanic/sqlearnFinal/venv
+2anomalias/anomalias/venv
