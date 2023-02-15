@@ -10,3 +10,5 @@ titanic/pyspark/venv
 1titanic/sqlearn/venv
 1titanic/sqlearnFinal/venv
 2anomalias/anomalias/venv
+2anomalias/anomalias/.tmp/images/multijoint
+2anomalias/anomalias/images
